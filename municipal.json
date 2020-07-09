@@ -1,0 +1,732 @@
+[
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281093",
+        "munuicipal_name": "муниципальный округ Богородское",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281094",
+        "munuicipal_name": "муниципальный округ Вешняки",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281095",
+        "munuicipal_name": "муниципальный округ Восточное Измайлово",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281096",
+        "munuicipal_name": "муниципальный округ Восточный",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281097",
+        "munuicipal_name": "муниципальный округ Гольяново",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281098",
+        "munuicipal_name": "муниципальный округ Ивановское",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281099",
+        "munuicipal_name": "муниципальный округ Измайлово",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281100",
+        "munuicipal_name": "муниципальный округ Косино-Ухтомский",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281103",
+        "munuicipal_name": "муниципальный округ Метрогородок",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281101",
+        "munuicipal_name": "муниципальный округ Новогиреево",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281102",
+        "munuicipal_name": "муниципальный округ Новокосино",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281104",
+        "munuicipal_name": "муниципальный округ Перово",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281108",
+        "munuicipal_name": "муниципальный округ Преображенское",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281105",
+        "munuicipal_name": "муниципальный округ Северное Измайлово",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281106",
+        "munuicipal_name": "муниципальный округ Соколиная гора",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281107",
+        "munuicipal_name": "муниципальный округ Сокольники",
+        "area_name": "Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281109",
+        "munuicipal_name": "муниципальный округ Внуково",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281110",
+        "munuicipal_name": "муниципальный округ Дорогомилово",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281111",
+        "munuicipal_name": "муниципальный округ Крылатское",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281112",
+        "munuicipal_name": "муниципальный округ Кунцево",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281113",
+        "munuicipal_name": "муниципальный округ Можайский",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281114",
+        "munuicipal_name": "муниципальный округ Ново-Переделкино",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281115",
+        "munuicipal_name": "муниципальный округ Очаково-Матвеевское",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281116",
+        "munuicipal_name": "муниципальный округ Проспект Вернадского",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281000",
+        "munuicipal_name": "муниципальный округ Раменки",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281001",
+        "munuicipal_name": "муниципальный округ Солнцево",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281002",
+        "munuicipal_name": "муниципальный округ Тропарево-Никулино",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281003",
+        "munuicipal_name": "муниципальный округ Филевский парк",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281004",
+        "munuicipal_name": "муниципальный округ Фили-Давыдково",
+        "area_name": "Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281005",
+        "munuicipal_name": "муниципальный округ Крюково",
+        "area_name": "Зеленоградский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281006",
+        "munuicipal_name": "муниципальный округ Матушкино",
+        "area_name": "Зеленоградский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281052",
+        "munuicipal_name": "муниципальный округ Савелки",
+        "area_name": "Зеленоградский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281007",
+        "munuicipal_name": "муниципальный округ Силино",
+        "area_name": "Зеленоградский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281124",
+        "munuicipal_name": "муниципальный округ Старое Крюково",
+        "area_name": "Зеленоградский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399587",
+        "munuicipal_name": "городской округ Щербинка",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399578",
+        "munuicipal_name": "поселение Внуковское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399588",
+        "munuicipal_name": "поселение Вороновское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2388834",
+        "munuicipal_name": "поселение Воскресенское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399579",
+        "munuicipal_name": "поселение Десеновское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399589",
+        "munuicipal_name": "поселение Киевский",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399590",
+        "munuicipal_name": "поселение Кленовское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399580",
+        "munuicipal_name": "поселение Кокошкино",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399591",
+        "munuicipal_name": "поселение Краснопахорское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399581",
+        "munuicipal_name": "поселение Марушкинское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399592",
+        "munuicipal_name": "поселение Михайлов-Ярцевское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399582",
+        "munuicipal_name": "поселение Московский",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399583",
+        "munuicipal_name": "поселение Мосрентген",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399593",
+        "munuicipal_name": "поселение Новофедоровское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399594",
+        "munuicipal_name": "поселение Первомайское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399595",
+        "munuicipal_name": "поселение Роговское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399584",
+        "munuicipal_name": "поселение Рязановское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399585",
+        "munuicipal_name": "поселение Сосенское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399586",
+        "munuicipal_name": "поселение Филимонковское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2399596",
+        "munuicipal_name": "поселение Щаповское",
+        "area_name": "Новомосковский"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281008",
+        "munuicipal_name": "муниципальный округ Аэропорт",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281009",
+        "munuicipal_name": "муниципальный округ Беговой",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281010",
+        "munuicipal_name": "муниципальный округ Бескудниковский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281011",
+        "munuicipal_name": "муниципальный округ Войковский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281012",
+        "munuicipal_name": "муниципальный округ Восточное Дегунино",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281013",
+        "munuicipal_name": "муниципальный округ Головинский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281014",
+        "munuicipal_name": "муниципальный округ Дмитровский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281015",
+        "munuicipal_name": "муниципальный округ Западное Дегунино",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281016",
+        "munuicipal_name": "муниципальный округ Коптево",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281017",
+        "munuicipal_name": "муниципальный округ Левобережный",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281018",
+        "munuicipal_name": "муниципальный округ Молжаниновский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281019",
+        "munuicipal_name": "муниципальный округ Савеловский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281020",
+        "munuicipal_name": "муниципальный округ Сокол",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281021",
+        "munuicipal_name": "муниципальный округ Тимирязевский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281022",
+        "munuicipal_name": "муниципальный округ Ховрино",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281023",
+        "munuicipal_name": "муниципальный округ Хорошевский",
+        "area_name": "Северный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281024",
+        "munuicipal_name": "муниципальный округ Алексеевский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281025",
+        "munuicipal_name": "муниципальный округ Алтуфьевский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281026",
+        "munuicipal_name": "муниципальный округ Бабушкинский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281027",
+        "munuicipal_name": "муниципальный округ Бибирево",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281028",
+        "munuicipal_name": "муниципальный округ Бутырский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281029",
+        "munuicipal_name": "муниципальный округ Лианозово",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281030",
+        "munuicipal_name": "муниципальный округ Лосиноостровский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281031",
+        "munuicipal_name": "муниципальный округ Марфино",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281032",
+        "munuicipal_name": "муниципальный округ Марьина роща",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281033",
+        "munuicipal_name": "муниципальный округ Останкинский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281034",
+        "munuicipal_name": "муниципальный округ Отрадное",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281035",
+        "munuicipal_name": "муниципальный округ Ростокино",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281036",
+        "munuicipal_name": "муниципальный округ Свиблово",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281037",
+        "munuicipal_name": "муниципальный округ Северное Медведково",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281038",
+        "munuicipal_name": "муниципальный округ Северный",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281039",
+        "munuicipal_name": "муниципальный округ Южное Медведково",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281040",
+        "munuicipal_name": "муниципальный округ Ярославский",
+        "area_name": "Северо-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281041",
+        "munuicipal_name": "муниципальный округ Куркино",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281042",
+        "munuicipal_name": "муниципальный округ Митино",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281043",
+        "munuicipal_name": "муниципальный округ Покровское-Стрешнево",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281044",
+        "munuicipal_name": "муниципальный округ Северное Тушино",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281045",
+        "munuicipal_name": "муниципальный округ Строгино",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281046",
+        "munuicipal_name": "муниципальный округ Хорошево-Мневники",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281047",
+        "munuicipal_name": "муниципальный округ Щукино",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281048",
+        "munuicipal_name": "муниципальный округ Южное Тушино",
+        "area_name": "Северо-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2388826",
+        "munuicipal_name": "городской округ Троицк",
+        "area_name": "Троицкий"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281049",
+        "munuicipal_name": "муниципальный округ Арбат",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281050",
+        "munuicipal_name": "муниципальный округ Басманный",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281051",
+        "munuicipal_name": "муниципальный округ Замоскворечье",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281053",
+        "munuicipal_name": "муниципальный округ Красносельский",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281054",
+        "munuicipal_name": "муниципальный округ Мещанский",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281055",
+        "munuicipal_name": "муниципальный округ Пресненский",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281056",
+        "munuicipal_name": "муниципальный округ Таганский",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281057",
+        "munuicipal_name": "муниципальный округ Тверской",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281058",
+        "munuicipal_name": "муниципальный округ Хамовники",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281059",
+        "munuicipal_name": "муниципальный округ Якиманка",
+        "area_name": "Центральный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281060",
+        "munuicipal_name": "муниципальный округ Выхино-Жулебино",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281061",
+        "munuicipal_name": "муниципальный округ Капотня",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281062",
+        "munuicipal_name": "муниципальный округ Кузьминки",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281063",
+        "munuicipal_name": "муниципальный округ Лефортово",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281064",
+        "munuicipal_name": "муниципальный округ Люблино",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281065",
+        "munuicipal_name": "муниципальный округ Марьино",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281066",
+        "munuicipal_name": "муниципальный округ Некрасовка",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281067",
+        "munuicipal_name": "муниципальный округ Нижегородский",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281068",
+        "munuicipal_name": "муниципальный округ Печатники",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281069",
+        "munuicipal_name": "муниципальный округ Рязанский",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281070",
+        "munuicipal_name": "муниципальный округ Текстильщики",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281071",
+        "munuicipal_name": "муниципальный округ Южнопортовый",
+        "area_name": "Юго-Восточный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281072",
+        "munuicipal_name": "муниципальный округ Академический",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281073",
+        "munuicipal_name": "муниципальный округ Гагаринский",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281074",
+        "munuicipal_name": "муниципальный округ Зюзино",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281075",
+        "munuicipal_name": "муниципальный округ Коньково",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281076",
+        "munuicipal_name": "муниципальный округ Котловка",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281077",
+        "munuicipal_name": "муниципальный округ Ломоносовский",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281078",
+        "munuicipal_name": "муниципальный округ Обручевский",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281079",
+        "munuicipal_name": "муниципальный округ Северное Бутово",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281080",
+        "munuicipal_name": "муниципальный округ Теплый Стан",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281081",
+        "munuicipal_name": "муниципальный округ Черемушки",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281082",
+        "munuicipal_name": "муниципальный округ Южное Бутово",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281083",
+        "munuicipal_name": "муниципальный округ Ясенево",
+        "area_name": "Юго-Западный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281084",
+        "munuicipal_name": "муниципальный округ Бирюлево Восточное",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281085",
+        "munuicipal_name": "муниципальный округ Бирюлево Западное",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281086",
+        "munuicipal_name": "муниципальный округ Братеево",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281087",
+        "munuicipal_name": "муниципальный округ Даниловский",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281088",
+        "munuicipal_name": "муниципальный округ Донской",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281089",
+        "munuicipal_name": "муниципальный округ Зябликово",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281090",
+        "munuicipal_name": "муниципальный округ Москворечье-Сабурово",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281091",
+        "munuicipal_name": "муниципальный округ Нагатино-Садовники",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281092",
+        "munuicipal_name": "муниципальный округ Нагатинский затон",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281117",
+        "munuicipal_name": "муниципальный округ Нагорный",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281118",
+        "munuicipal_name": "муниципальный округ Орехово-Борисово Северное",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281119",
+        "munuicipal_name": "муниципальный округ Орехово-Борисово Южное",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281120",
+        "munuicipal_name": "муниципальный округ Царицыно",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281121",
+        "munuicipal_name": "муниципальный округ Чертаново Северное",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281122",
+        "munuicipal_name": "муниципальный округ Чертаново Центральное",
+        "area_name": "Южный"
+    },
+    {
+        "link": "https://www.reformagkh.ru/myhouse?tid=2281123",
+        "munuicipal_name": "муниципальный округ Чертаново Южное",
+        "area_name": "Южный"
+    }
+]
